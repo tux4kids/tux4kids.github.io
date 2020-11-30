@@ -16,7 +16,7 @@ In Comet Zap you control Tux as he defends the cities from comets.  To protect a
 
 "Lessons" uses XML-based scripting to run various other parts of the program in a specified order, including the "Practice" activity.  As of version 1.8.0, the default theme for Tux Typing now has a substantial collection of finger exercises ("`basic_lesson_01`" to "`basic_lesson_43`") that progressively introduce the keys on the keyboard.
 
-You can read [the full README](https://github.com/tux4kids/tuxtyping/blob/master/README.md) on GitHub.
+You can read [the full README](https://github.com/tux4kids/tuxtype/blob/master/doc/README) on GitHub.
 
 ## Downloads
 
