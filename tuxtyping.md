@@ -24,6 +24,6 @@ You can read [the full README](https://github.com/tux4kids/tuxtype/blob/master/d
 - [macOS](https://sourceforge.net/projects/tuxtype/files/tuxtype-mac/)
 - [Source code releases](https://sourceforge.net/projects/tuxtype/files/tuxtype-source/)
 - Source code repositories
-  - [tuxmath source repository at GitHub](https://github.com/tux4kids/tuxtyping)
+  - [tuxmath source repository at GitHub](https://github.com/tux4kids/tuxtype)
   - [t4kcommon source repository at GitHub](https://github.com/tux4kids/t4kcommon) (Shared with "TuxMath")
 
