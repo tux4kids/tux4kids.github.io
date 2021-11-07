@@ -4,7 +4,7 @@
 
 Tux the penguin is hungry, and loves to eat fish. But Tux can only catch the fish if you type the right letters in time! Can you help Tux?
 
-In Fish Cascade you control Tux as he searches for fish to eat. Fish fall from the top of the screen. These fish have letters on them.  Unforunately for Tux, eating a fish with a letter on it will cause his stomach to become ill, so it is up to you to help Tux eat fish!  By typing the letters, it will cause them to disappear so tux can chow down on the fish.
+In Fish Cascade you control Tux as he searches for fish to eat. Fish fall from the top of the screen. These fish have letters on them.  Unfortunately for Tux, eating a fish with a letter on it will cause his stomach to become ill, so it is up to you to help Tux eat fish!  By typing the letters, it will cause them to disappear so Tux can chow down on the fish.
 
 In Comet Zap you control Tux as he defends the cities from comets.  To protect a city from a comet, type the letter on the comet and it will cause Tux to destroy it with a laser! (In case you wondered, Comet Zap is an adaptation of the *great* math drill game, "Tux, of Math Command").
 
