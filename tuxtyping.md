@@ -9,7 +9,7 @@ In Fish Cascade you control Tux as he searches for fish to eat. Fish fall from t
 In Comet Zap you control Tux as he defends the cities from comets.  To protect a city from a comet, type the letter on the comet and it will cause Tux to destroy it with a laser! (In case you wondered, Comet Zap is an adaptation of the *great* math drill game, "Tux, of Math Command").
 
 ## Additional activities
-  
+
 "Lessons" and "Phrase Typing" are additional typing activities.  These features are not yet completed, but represent ways to add additional "content" without requiring more programming per se.
 
 "Phrase Typing" involves typing of phrases or complete sentences, with measurment of accuracy and typing speed. The current phrases in the default (English) theme are a collection of pangrams (sentences with all 26 letters) as well as some well-known quotes from public domain literature. At some point we will make this easy for teachers to modify, so sentences related to a current study topic might be used.
@@ -24,6 +24,6 @@ You can read [the full README](https://github.com/tux4kids/tuxtype/blob/master/d
 - [macOS](https://sourceforge.net/projects/tuxtype/files/tuxtype-mac/)
 - [Source code releases](https://sourceforge.net/projects/tuxtype/files/tuxtype-source/)
 - Source code repositories
-  - [tuxmath source repository at GitHub](https://github.com/tux4kids/tuxtype)
+  - [tuxtype source repository at GitHub](https://github.com/tux4kids/tuxtype)
   - [t4kcommon source repository at GitHub](https://github.com/tux4kids/t4kcommon) (Shared with "TuxMath")
 
